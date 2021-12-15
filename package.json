@@ -1,0 +1,21 @@
+{
+  "name": "12-factor-javascript-glitzner",
+  "version": "1.0.0",
+  "description": "12 Factor Application Glitzner",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Thomas Glitzner",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "no"
+  }
+}
